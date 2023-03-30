@@ -27,4 +27,4 @@ REACT_APP_SPOTIFY_REDIRECT_URI=http://localhost:3000/callback
 
 This project is open for contributions. If you have any ideas, suggestions, or issues, please feel free to open a pull request or an issue. You can also contact us at <our email address>.
 ```
-![Screenshot (91)](https://user-images.githubusercontent.com/29347949/228964478-2eb6e31b-769b-44bb-80a5-b3a907a75702.png)
+(https://user-images.githubusercontent.com/29347949/228964478-2eb6e31b-769b-44bb-80a5-b3a907a75702.png)
