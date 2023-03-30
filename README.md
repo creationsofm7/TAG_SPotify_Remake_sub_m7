@@ -1,5 +1,5 @@
 
-# Spotify Clone Project 🚀
+# Spotify Clone Project 🚀 (Not MObile friendly version)
 
 Welcome to the Spotify Clone Project, a web application that mimics the features and design of the popular music streaming service Spotify. This project is built with React, a JavaScript library for creating user interfaces.
 
